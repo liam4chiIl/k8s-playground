@@ -12,7 +12,7 @@
 
 **Build de l'image Docker**
 
-> docker build -t fiscal-api .
+> docker build -t calcul_fiscal-api .
 
 **Lancement du container**
 > docker run -d -p 5000:5000 fiscal-api
